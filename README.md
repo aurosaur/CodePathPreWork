@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/aurosaur/CodePathPreWork/blob/main/PreWorkWalkThrough.mkv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/aurosaur/CodePathPreWork/blob/main/PreWorkGIF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](https://github.com/aurosaur/CodePathPreWork/blob/main/PreWorkGIF.gif).
 
