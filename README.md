@@ -28,7 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/aurosaur/CodePathPreWork/blob/main/PreWorkWalkThrough.mkv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [LiceCap](https://github.com/aurosaur/CodePathPreWork/blob/main/PreWorkGIF.gif).
 
 ## Notes
 
